@@ -110,16 +110,20 @@ def joinFactors(factors: List[Factor]):
 
     # Extract conditioned/unconditioned variables
     for factor in factors:
+        # Add new unconditioned variables
         unconditioned_var += factor.unconditionedVariables()
+        # Add new conditioned variables
         condition = factor.conditionedVariables()
         for var in condition:
+            # Append new variables only
+            # Possibly use set here to reduce one line of code.
             if var not in conditioned_var:
                 conditioned_var.append(var)
     # Eliminate redundant conditioned variables
     conditioned_var = [x for x in conditioned_var if x not in unconditioned_var]
-    
     # Initialize the new factor returned
     result = Factor(unconditioned_var, conditioned_var, variableDomainsDict)
+    # Get all possible assignments
     assignment_dicts = result.getAllPossibleAssignmentDicts()
     # Compute the new probabilities
     for assignment in assignment_dicts:
@@ -179,13 +183,19 @@ def eliminateWithCallTracking(callTrackingList=None):
                     "unconditionedVariables: " + str(factor.unconditionedVariables()))
 
         "*** YOUR CODE HERE ***"
+        # Get a copy of all unconditioned variables except for the one we want
+        # to eliminate
         unconditioned_var = [x for x in factor.unconditionedVariables() 
             if x != eliminationVariable]
+        # Get all conditioned variables
         conditioned_var = factor.conditionedVariables()
+        # Get all possible variable domains
         variableDomainsDict = factor.variableDomainsDict()
+        # Find the region of elimination variable we want to sum over
         sum_region = variableDomainsDict[eliminationVariable]
         # Initialize the new factor returned
         result = Factor(unconditioned_var, conditioned_var, variableDomainsDict)
+        # get all possible assignments
         assignment_dicts = result.getAllPossibleAssignmentDicts()
         # Compute the new probabilities
         for assignment in assignment_dicts:
@@ -194,6 +204,7 @@ def eliminateWithCallTracking(callTrackingList=None):
             for eli_var_val in sum_region:
                 # sum over the variable to be eliminated
                 assignment[eliminationVariable] = eli_var_val
+                # add over the probability
                 prob += factor.getProbability(assignment)
             result.setProbability(assignment, prob)
         return result

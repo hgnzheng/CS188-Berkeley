@@ -71,11 +71,13 @@ def constructBayesNet(gameState: hunters.GameState):
     edges.append((GHOST1, OBS1))
 
     # Construct the domain for each variable (a list like)
-    variableDomainsDict[PAC]  = [(x,y) for x in range(X_RANGE) for y in range(Y_RANGE)]
-    variableDomainsDict[GHOST0] = [(x,y) for x in range(X_RANGE) for y in range(Y_RANGE)]
-    variableDomainsDict[GHOST1]  = [(x,y) for x in range(X_RANGE) for y in range(Y_RANGE)]
-    variableDomainsDict[OBS0]  = [x for x in range(X_RANGE + Y_RANGE + MAX_NOISE - 1)]
-    variableDomainsDict[OBS1]  = [x for x in range(X_RANGE + Y_RANGE + MAX_NOISE - 1)]
+    agent_domain = [(x,y) for x in range(X_RANGE) for y in range(Y_RANGE)]
+    obj_domain = [x for x in range(X_RANGE + Y_RANGE + MAX_NOISE - 1)]
+    variableDomainsDict[PAC]  = agent_domain.copy()
+    variableDomainsDict[GHOST0] = agent_domain.copy()
+    variableDomainsDict[GHOST1]  = agent_domain.copy()
+    variableDomainsDict[OBS0]  = obj_domain.copy()
+    variableDomainsDict[OBS1]  = obj_domain.copy()
     "*** END YOUR CODE HERE ***"
 
     net = bn.constructEmptyBayesNet(variables, edges, variableDomainsDict)
