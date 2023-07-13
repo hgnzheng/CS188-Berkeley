@@ -7,6 +7,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 
 **Total discussion miss allowed: 8**
 
-*Total Discussion missed: 2*
+*Total Discussion missed: 3*
 - July 3rd
 - July 6th
+- July 13th
