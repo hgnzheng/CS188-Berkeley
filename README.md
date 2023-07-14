@@ -20,6 +20,8 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 - July 14th (Midterm Review)
 - July 14th
 - July 14th
+- July 14th
+- Jyly 14th
 
 **Total discussion needed for 3% extra credit: 20/28**
 
