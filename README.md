@@ -5,6 +5,9 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 
 [Spring 2023 Website](https://inst.eecs.berkeley.edu/~cs188/sp23/)
 
+[Stanford CS 221 Website](https://stanford-cs221.github.io/autumn2021/#schedule)
+[CS 221 Videos](https://www.youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
+
 *Total Discussion attended: 18
 
 - June 21st
