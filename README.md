@@ -5,7 +5,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 
 [Spring 2023 Website](https://inst.eecs.berkeley.edu/~cs188/sp23/)
 
-*Total Discussion attended: 17
+*Total Discussion attended: 18
 
 - June 21st
 - June 22nd
@@ -24,6 +24,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 - July 14th
 - July 14th
 - July 19th
+- July 24th
 
 **Total discussion needed for 3% extra credit: 20/28**
 
