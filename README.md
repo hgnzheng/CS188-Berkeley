@@ -8,7 +8,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 [Stanford CS 221 Website](https://stanford-cs221.github.io/autumn2021/#schedule)
 [CS 221 Videos](https://www.youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
 
-*Total Discussion attended: 19
+*Total Discussion attended: 20
 
 - June 21st
 - June 22nd
@@ -29,6 +29,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 - July 19th
 - July 24th
 - Jyly 26th
+- July 27th
 
 **Total discussion needed for 3% extra credit: 20/28**
 
