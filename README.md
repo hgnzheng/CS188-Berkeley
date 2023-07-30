@@ -12,6 +12,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 
 ## Past Final
 |     Final       |    Status    |
+| --------------- | ------------ |
 | Fall 2022       |              |
 | Summer 2022     |              |
 | Spring 2022     |              |
