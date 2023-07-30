@@ -8,6 +8,18 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 [Stanford CS 221 Website](https://stanford-cs221.github.io/autumn2021/#schedule)
 [CS 221 Videos](https://www.youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
 
+# Final Exam Review Plan
+
+## Past Final
+|     Final       |    Status    |
+| Fall 2022       |              |
+| Summer 2022     |              |
+| Spring 2022     |              |
+| Fall 2021       |              |
+| Summer 2021     |              |
+| Spring 2021     |              |
+| Fall 2020       |              |
+
 *Total Discussion attended: 20
 
 - June 21st
