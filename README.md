@@ -10,6 +10,63 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 
 # Final Exam Review Plan
 
+## Lecture Recording (Fall 2022)
+|   Topic                |   Completion Data     |
+| ---------------------- | --------------------- |
+| Search                 |                       |
+| CSPs                   |                       |
+| Game                   |                       |
+| Bayes' Nets            |                       |
+| Hidden Markov Models   |                       |
+| Decision Nets & VPI    |                       |
+| Particle Filtering     |                       |
+| MDP                    |                       |
+| Reinforcement Learning |                       |
+| Machine Learning       |                       |
+
+## Notes Reading
+|  Note and Chapter                    |   Completion Data     |
+| ------------------------------------ | --------------------- |
+| Note 1, Chap. 1,2                    |                       |
+| Note 2, Chap. 3                      |                       |
+| Note 3, Chap. 6.1-6.3                |                       |
+| Note 4, Chap. 6.4-6.5, 4.1-4.2       |                       |
+| Note 5, Chap. 5.1-5.3                |                       |
+| Note 6, Chap. 5.4-5.5                |                       |
+| Note 7, Chap. 14.1-14.5              |                       |
+| Note 12, Chap. 15.1-15.6, 16.1-16.3  |                       |
+| Note 15, Chap. 16.5-16.7             |                       |
+| Note 17, Chap. 17.1-17.3             |                       |
+| Note 18, Chap. 22.1-22.6             |                       |
+| Note 20, Chap. 20.1-20.2, 18.6       |                       |
+| Note 24, Chap. 21.1-21.5             |                       |
+
+## Discussion Worksheets Walkthrough (Fall 2022)
+| Topic                          |  Completion Data      |
+| ------------------------------ | --------------------- |
+| 1. Uninformed Search           |                       |
+| 2. Informed Search             |                       |
+| 3. CSPs                        |                       |
+| 4. Adversarial Search          |                       |
+| 5. MDPs                        |                       |
+| 6. Mid, RL                     |                       |
+| Mid, Games                     |                       |
+| Mid, CSPs                      |                       |
+| Mid, Search                    |                       |
+| Mid, MDP                       |                       |
+| 7. Bayes' Nets                 |                       |
+| 8. Bayes' Nets, VPIs           |                       |
+| 9. HMMs, Particle Filtering    |                       |
+| 10. Naive Bayes, Perceptron    |                       |
+| 11. Optimizations, Neural Nets |                       |
+| Final, Search                  |                       |
+| Final, CSPs                    |                       |
+| Final, Games                   |                       |
+| Final, RL                      |                       |
+| Final, Bayes' Nets             |                       |
+| Final, HMMs                    |                       |
+| Final, ML                      |                       |
+
 ## Past Final
 |     Final       |    Status    |
 | --------------- | ------------ |
@@ -21,7 +78,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 | Spring 2021     |              |
 | Fall 2020       |              |
 
-*Total Discussion attended: 20
+*Total Discussion attended: 20 (3% Extra Credit Reached)
 
 - June 21st
 - June 22nd
