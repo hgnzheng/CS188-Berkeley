@@ -13,7 +13,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 ## Lecture Recording (Fall 2022)
 |   Topic                |   Completion Data     |
 | ---------------------- | --------------------- |
-| Search                 |                       |
+| Search                 |   July 31st           |
 | CSPs                   |                       |
 | Game                   |                       |
 | Bayes' Nets            |                       |
