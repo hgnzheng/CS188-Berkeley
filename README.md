@@ -10,7 +10,7 @@ CS 188 Introduction to Artificial Intelligence taken at UC Berkeley over Summer 
 
 [Stanford CS 221 Videos](https://www.youtube.com/watch?v=ZiwogMtbjr4&list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
 
-***For upholding academic integrity, do not use any solutions of the projects as your own. MOSS will be able to tell.***
+***To uphold academic integrity, please do not use any solutions of the projects as your own. MOSS will be able to tell and you will suffer from significant consequences.***
 
 In this semester's offering, topics differed from previous offerings (30% of the material was focused on RL/ML/DL). Topics include:
 
@@ -26,6 +26,8 @@ In this semester's offering, topics differed from previous offerings (30% of the
 - Optimization Methods                        (Stochastic, Mini-Batch, Newton's Method & 2nd Order, Momentum, Adaptive)
 
 ## Projects
+
+*My project partner was Nate del Rosario | [Github](https://github.com/natdosan). The solutions in the repository is the collective effort between us.*
 
 ### [Project 0](https://inst.eecs.berkeley.edu/~cs188/su23/projects/proj0/)
 - Basic Python setup to prepare for the upcoming projects.
