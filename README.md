@@ -48,4 +48,4 @@ In this semester's offering, topics differed from previous offerings (30% of the
 - Implemented backpropagation, function approximation, and RNN using NumPy.
 
 ## End Note
-*Special thanks to Nicholas Tomlin and Saagar Sanghavi for their dedication in teaching the course. Shout out to Michael Wu, Eric Wallace, Austen Liao, and Stanley Kwon for holding regular discussion sessions and address my endless questions during office hours and project parties.*
+*Special thanks to Nicholas Tomlin and Saagar Sanghavi for their dedication in teaching the course. Shout out to Michael Wu, Eric Wallace, Austen Liao, and Stanley Kwon for holding regular discussion sessions and address my endless questions during office hours and homework parties.*
